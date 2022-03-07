@@ -1,18 +1,14 @@
-import twitter
+
 import re
 import tweepy
 from tweepy import OAuthHandler
 from textblob import TextBlob
 import unicodedata2
-import urllib
-import simplejson
-##import json
 import sys
 from tkinter import *
 import tkinter
 
 import nltk.classify.util
-##from nltk.classify import NaiveBayesClassifier
 from nltk.corpus import names
 from nltk.corpus import stopwords
 import numpy as np

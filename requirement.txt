@@ -1,0 +1,6 @@
+tweepy
+textblob
+numpy
+matplotlib
+unicodedata2
+nltk
